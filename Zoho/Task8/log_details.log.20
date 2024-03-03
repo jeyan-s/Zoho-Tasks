@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-02-23T09:05:24.834482Z</date>
+  <millis>1708679124834</millis>
+  <nanos>482000</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>datetimerunner.DateTimeRunner</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2024-02-23 14:35:24</message>
+</record>
+<record>
+  <date>2024-02-23T09:05:26.102495Z</date>
+  <millis>1708679126102</millis>
+  <nanos>495000</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>datetimerunner.DateTimeRunner</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2024-02-23 14:35:26</message>
+</record>
+<record>
+  <date>2024-02-23T09:05:29.912105Z</date>
+  <millis>1708679129912</millis>
+  <nanos>105000</nanos>
+  <sequence>2</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>datetimerunner.DateTimeRunner</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2024-02-23 14:35:29</message>
+</record>
+<record>
+  <date>2024-02-23T09:05:32.507947Z</date>
+  <millis>1708679132507</millis>
+  <nanos>947000</nanos>
+  <sequence>3</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>datetimerunner.DateTimeRunner</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2024-02-23 14:35:32</message>
+</record>
+</log>

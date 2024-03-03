@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-02-23T09:15:20.239901Z</date>
+  <millis>1708679720239</millis>
+  <nanos>901000</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>datetimerunner.DateTimeRunner</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2024-02-23 14:45:20</message>
+</record>
+<record>
+  <date>2024-02-23T09:15:21.805628Z</date>
+  <millis>1708679721805</millis>
+  <nanos>628000</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>datetimerunner.DateTimeRunner</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2024-02-23 14:45:21</message>
+</record>
+<record>
+  <date>2024-02-23T09:15:22.670999Z</date>
+  <millis>1708679722670</millis>
+  <nanos>999000</nanos>
+  <sequence>2</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>datetimerunner.DateTimeRunner</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2024-02-23 14:45:22</message>
+</record>
+<record>
+  <date>2024-02-23T09:15:23.016751Z</date>
+  <millis>1708679723016</millis>
+  <nanos>751000</nanos>
+  <sequence>3</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>datetimerunner.DateTimeRunner</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2024-02-23 14:45:23</message>
+</record>
+<record>
+  <date>2024-02-23T09:15:23.257965Z</date>
+  <millis>1708679723257</millis>
+  <nanos>965000</nanos>
+  <sequence>4</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>datetimerunner.DateTimeRunner</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2024-02-23 14:45:23</message>
+</record>
+<record>
+  <date>2024-02-23T09:15:23.466445Z</date>
+  <millis>1708679723466</millis>
+  <nanos>445000</nanos>
+  <sequence>5</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>datetimerunner.DateTimeRunner</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2024-02-23 14:45:23</message>
+</record>
+</log>
